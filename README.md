@@ -21,7 +21,7 @@ We worked with dynamic programming, Local Storage, JSON, API, and asynchronous c
 * Sofia Andersén - [GitHub](https://github.com/Fiaevanna)
 * Stina Nerin - [GitHub](https://github.com/stormstina)
 * Olivia Marongiu - [GitHub](https://github.com/manqoloco)
-* Linar Fatkullin - [GitHub](https://github.com/ezqu)
+* Linar Fatkullin - [GitHub](https://github.com/LF-Creator)
 
 
 ### Client - Weather application
